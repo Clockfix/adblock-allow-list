@@ -8,3 +8,5 @@
 # Total Lines: 1 lines
 
 t.co
+i.instagram.com
+graph.facebook.com
